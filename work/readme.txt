@@ -1,1 +1,1 @@
-This is a placeholder for all the programmikng work done while in Alcatel-Lucent.
+This is a place holder for all the programming work done while in Alcatel-Lucent.
